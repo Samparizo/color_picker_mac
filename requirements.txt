@@ -1,0 +1,6 @@
+
+PyQt6==6.6.1
+mss==9.0.1
+Pillow==10.2.0
+pyperclip==1.8.2
+py2app==0.28
